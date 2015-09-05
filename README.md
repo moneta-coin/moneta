@@ -3,9 +3,9 @@ Moneta integration/staging tree
 
 http://www.moneta.io
 
-Copyright (c) 2009-2014 Moneta Developers
+Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2011-2014 Moneta Developers
+Copyright (c) 2011-2016 Moneta Developers
 
 What is Moneta?
 ----------------
@@ -13,10 +13,10 @@ What is Moneta?
 Moneta is a lite version of Moneta using scrypt as a proof-of-work algorithm.
  - 30 second block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~840 million total coins
+ - ~184 million total coins
 
 The rest is the same as Moneta.
- - 500 coins per block
+ - 1 coins per block
  - 10 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
