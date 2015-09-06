@@ -1,14 +1,10 @@
-// Copyright (c) 2011-2013 The Moneta developers
-// Distributed under the MIT/X11 software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
 #include "rpcconsole.h"
 #include "ui_rpcconsole.h"
-
+#ifndef Q_MOC_RUN
 #include "clientmodel.h"
-#include "monetarpc.h"
+#include "bitcoinrpc.h"
 #include "guiutil.h"
-
+#endif
 #include <QTime>
 #include <QThread>
 #include <QKeyEvent>
